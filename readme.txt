@@ -1,6 +1,7 @@
 We describe here where to find the programs, what they do, and how to generate the figures in the paper.
 
 IMPORTANT NOTE: If you copy the entire repository on a local folder, you should be able to execute the programs straight away as indicated below on a Linux machine. On Windows, there might be problems because of a different syntax for the file structure and the necessary data and programs in the program headers might have to be imported manually.
+IMPORTANT NOTE 2: The file ~/Data/PeanutEigenfunctions400.mat_temp needs its ending to be changed to .mat
 
 How to generate the figures from the paper:
 
